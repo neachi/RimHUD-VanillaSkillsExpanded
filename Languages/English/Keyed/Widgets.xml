@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimHUD_VSE_Expertise_Bar_Slot1>Expertise (Bar) 1</RimHUD_VSE_Expertise_Bar_Slot1>
+  <RimHUD_VSE_Expertise_Bar_Slot2>Expertise (Bar) 2</RimHUD_VSE_Expertise_Bar_Slot2>
+  <RimHUD_VSE_Expertise_Bar_Slot3>Expertise (Bar) 3</RimHUD_VSE_Expertise_Bar_Slot3>
+  <RimHUD_VSE_Expertise_Bar_Slot4>Expertise (Bar) 4</RimHUD_VSE_Expertise_Bar_Slot4>
+  <RimHUD_VSE_Expertise_Bar_Slot5>Expertise (Bar) 5</RimHUD_VSE_Expertise_Bar_Slot5>
+
+  <RimHUD_VSE_Expertise_Value_Slot1>Expertise (Text) 1</RimHUD_VSE_Expertise_Value_Slot1>
+  <RimHUD_VSE_Expertise_Value_Slot2>Expertise (Text) 2</RimHUD_VSE_Expertise_Value_Slot2>
+  <RimHUD_VSE_Expertise_Value_Slot3>Expertise (Text) 3</RimHUD_VSE_Expertise_Value_Slot3>
+  <RimHUD_VSE_Expertise_Value_Slot4>Expertise (Text) 4</RimHUD_VSE_Expertise_Value_Slot4>
+  <RimHUD_VSE_Expertise_Value_Slot5>Expertise (Text) 5</RimHUD_VSE_Expertise_Value_Slot5>
+</LanguageData>

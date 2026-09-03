@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Bar Widgets (Label + Level + Progress Bar) -->
+  <RimHUD.CustomBarDef>
+    <defName>RimHUD_VSE_Expertise_Bar_Slot1</defName>
+    <label>[VSE] Expertise (Bar) 1</label>
+    <textStyle>Regular</textStyle>
+    <colorStyle>MainOnly</colorStyle>
+    <defClass>RimHUD_VSE.ExpertiseBarSlot1</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomBarDef>
+  <RimHUD.CustomBarDef>
+    <defName>RimHUD_VSE_Expertise_Bar_Slot2</defName>
+    <label>[VSE] Expertise (Bar) 2</label>
+    <textStyle>Regular</textStyle>
+    <colorStyle>MainOnly</colorStyle>
+    <defClass>RimHUD_VSE.ExpertiseBarSlot2</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomBarDef>
+  <RimHUD.CustomBarDef>
+    <defName>RimHUD_VSE_Expertise_Bar_Slot3</defName>
+    <label>[VSE] Expertise (Bar) 3</label>
+    <textStyle>Regular</textStyle>
+    <colorStyle>MainOnly</colorStyle>
+    <defClass>RimHUD_VSE.ExpertiseBarSlot3</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomBarDef>
+  <RimHUD.CustomBarDef>
+    <defName>RimHUD_VSE_Expertise_Bar_Slot4</defName>
+    <label>[VSE] Expertise (Bar) 4</label>
+    <textStyle>Regular</textStyle>
+    <colorStyle>MainOnly</colorStyle>
+    <defClass>RimHUD_VSE.ExpertiseBarSlot4</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomBarDef>
+  <RimHUD.CustomBarDef>
+    <defName>RimHUD_VSE_Expertise_Bar_Slot5</defName>
+    <label>[VSE] Expertise (Bar) 5</label>
+    <textStyle>Regular</textStyle>
+    <colorStyle>MainOnly</colorStyle>
+    <defClass>RimHUD_VSE.ExpertiseBarSlot5</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomBarDef>
+
+  <!-- Value Widgets (Label + Level Text only) -->
+  <RimHUD.CustomValueDef>
+    <defName>RimHUD_VSE_Expertise_Value_Slot1</defName>
+    <label>[VSE] Expertise (Text) 1</label>
+    <textStyle>Regular</textStyle>
+    <defClass>RimHUD_VSE.ExpertiseValueSlot1</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomValueDef>
+  <RimHUD.CustomValueDef>
+    <defName>RimHUD_VSE_Expertise_Value_Slot2</defName>
+    <label>[VSE] Expertise (Text) 2</label>
+    <textStyle>Regular</textStyle>
+    <defClass>RimHUD_VSE.ExpertiseValueSlot2</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomValueDef>
+  <RimHUD.CustomValueDef>
+    <defName>RimHUD_VSE_Expertise_Value_Slot3</defName>
+    <label>[VSE] Expertise (Text) 3</label>
+    <textStyle>Regular</textStyle>
+    <defClass>RimHUD_VSE.ExpertiseValueSlot3</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomValueDef>
+  <RimHUD.CustomValueDef>
+    <defName>RimHUD_VSE_Expertise_Value_Slot4</defName>
+    <label>[VSE] Expertise (Text) 4</label>
+    <textStyle>Regular</textStyle>
+    <defClass>RimHUD_VSE.ExpertiseValueSlot4</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomValueDef>
+  <RimHUD.CustomValueDef>
+    <defName>RimHUD_VSE_Expertise_Value_Slot5</defName>
+    <label>[VSE] Expertise (Text) 5</label>
+    <textStyle>Regular</textStyle>
+    <defClass>RimHUD_VSE.ExpertiseValueSlot5</defClass>
+    <apiVersion>1</apiVersion>
+  </RimHUD.CustomValueDef>
+</Defs>

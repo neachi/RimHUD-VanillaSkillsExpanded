@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimHUD_VSE_Expertise_Bar_Slot1>専門技能 (バー) 1</RimHUD_VSE_Expertise_Bar_Slot1>
+  <RimHUD_VSE_Expertise_Bar_Slot2>専門技能 (バー) 2</RimHUD_VSE_Expertise_Bar_Slot2>
+  <RimHUD_VSE_Expertise_Bar_Slot3>専門技能 (バー) 3</RimHUD_VSE_Expertise_Bar_Slot3>
+  <RimHUD_VSE_Expertise_Bar_Slot4>専門技能 (バー) 4</RimHUD_VSE_Expertise_Bar_Slot4>
+  <RimHUD_VSE_Expertise_Bar_Slot5>専門技能 (バー) 5</RimHUD_VSE_Expertise_Bar_Slot5>
+
+  <RimHUD_VSE_Expertise_Value_Slot1>専門技能 (テキスト) 1</RimHUD_VSE_Expertise_Value_Slot1>
+  <RimHUD_VSE_Expertise_Value_Slot2>専門技能 (テキスト) 2</RimHUD_VSE_Expertise_Value_Slot2>
+  <RimHUD_VSE_Expertise_Value_Slot3>専門技能 (テキスト) 3</RimHUD_VSE_Expertise_Value_Slot3>
+  <RimHUD_VSE_Expertise_Value_Slot4>専門技能 (テキスト) 4</RimHUD_VSE_Expertise_Value_Slot4>
+  <RimHUD_VSE_Expertise_Value_Slot5>専門技能 (テキスト) 5</RimHUD_VSE_Expertise_Value_Slot5>
+</LanguageData>

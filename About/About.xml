@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimHUD - Vanilla Skills Expanded</name>
+  <author>neachi</author>
+  <packageId>neachi.rimhud.vanillaskillsexpanded</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>jaxe.rimhud</packageId>
+      <displayName>RimHUD</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1508850027</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>vanillaexpanded.skills</packageId>
+      <displayName>Vanilla Skills Expanded</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2863943999</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>jaxe.rimhud</li>
+    <li>vanillaexpanded.skills</li>
+  </loadAfter>
+  <description>A RimWorld mod that displays Vanilla Skills Expanded expertise on RimHUD.</description>
+</ModMetaData>
