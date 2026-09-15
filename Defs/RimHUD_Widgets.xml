@@ -4,6 +4,7 @@
   <RimHUD.CustomBarDef>
     <defName>RimHUD_VSE_Expertise_Bar_Slot1</defName>
     <label>[VSE] Expertise (Bar) 1</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <colorStyle>MainOnly</colorStyle>
     <defClass>RimHUD_VSE.ExpertiseBarSlot1</defClass>
@@ -12,6 +13,7 @@
   <RimHUD.CustomBarDef>
     <defName>RimHUD_VSE_Expertise_Bar_Slot2</defName>
     <label>[VSE] Expertise (Bar) 2</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <colorStyle>MainOnly</colorStyle>
     <defClass>RimHUD_VSE.ExpertiseBarSlot2</defClass>
@@ -20,6 +22,7 @@
   <RimHUD.CustomBarDef>
     <defName>RimHUD_VSE_Expertise_Bar_Slot3</defName>
     <label>[VSE] Expertise (Bar) 3</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <colorStyle>MainOnly</colorStyle>
     <defClass>RimHUD_VSE.ExpertiseBarSlot3</defClass>
@@ -28,6 +31,7 @@
   <RimHUD.CustomBarDef>
     <defName>RimHUD_VSE_Expertise_Bar_Slot4</defName>
     <label>[VSE] Expertise (Bar) 4</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <colorStyle>MainOnly</colorStyle>
     <defClass>RimHUD_VSE.ExpertiseBarSlot4</defClass>
@@ -36,6 +40,7 @@
   <RimHUD.CustomBarDef>
     <defName>RimHUD_VSE_Expertise_Bar_Slot5</defName>
     <label>[VSE] Expertise (Bar) 5</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <colorStyle>MainOnly</colorStyle>
     <defClass>RimHUD_VSE.ExpertiseBarSlot5</defClass>
@@ -46,6 +51,7 @@
   <RimHUD.CustomValueDef>
     <defName>RimHUD_VSE_Expertise_Value_Slot1</defName>
     <label>[VSE] Expertise (Text) 1</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <defClass>RimHUD_VSE.ExpertiseValueSlot1</defClass>
     <apiVersion>1</apiVersion>
@@ -53,6 +59,7 @@
   <RimHUD.CustomValueDef>
     <defName>RimHUD_VSE_Expertise_Value_Slot2</defName>
     <label>[VSE] Expertise (Text) 2</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <defClass>RimHUD_VSE.ExpertiseValueSlot2</defClass>
     <apiVersion>1</apiVersion>
@@ -60,6 +67,7 @@
   <RimHUD.CustomValueDef>
     <defName>RimHUD_VSE_Expertise_Value_Slot3</defName>
     <label>[VSE] Expertise (Text) 3</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <defClass>RimHUD_VSE.ExpertiseValueSlot3</defClass>
     <apiVersion>1</apiVersion>
@@ -67,6 +75,7 @@
   <RimHUD.CustomValueDef>
     <defName>RimHUD_VSE_Expertise_Value_Slot4</defName>
     <label>[VSE] Expertise (Text) 4</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <defClass>RimHUD_VSE.ExpertiseValueSlot4</defClass>
     <apiVersion>1</apiVersion>
@@ -74,6 +83,7 @@
   <RimHUD.CustomValueDef>
     <defName>RimHUD_VSE_Expertise_Value_Slot5</defName>
     <label>[VSE] Expertise (Text) 5</label>
+    <ignoreIllegalLabelCharacterConfigError>true</ignoreIllegalLabelCharacterConfigError>
     <textStyle>Regular</textStyle>
     <defClass>RimHUD_VSE.ExpertiseValueSlot5</defClass>
     <apiVersion>1</apiVersion>
